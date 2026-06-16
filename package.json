@@ -23,9 +23,7 @@
     "recharts": "^2.12.3",
     "tailwind-merge": "^2.2.2",
     "uuid": "^9.0.1",
-    "xlsx": "^0.18.5",
-    "express": "4.16.0",
-    "minimist": "1.2.5"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
