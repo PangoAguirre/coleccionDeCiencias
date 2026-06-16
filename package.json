@@ -23,9 +23,7 @@
     "recharts": "^2.12.3",
     "tailwind-merge": "^2.2.2",
     "uuid": "^9.0.1",
-    "xlsx": "^0.18.5",
-    "lodash": "4.17.21",
-    "ws": "8.18.0"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
