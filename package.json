@@ -25,7 +25,6 @@
     "uuid": "^9.0.1",
     "xlsx": "^0.18.5",
     "express": "4.16.0",
-    "axios": "0.21.1",
     "minimist": "1.2.5"
   },
   "devDependencies": {
